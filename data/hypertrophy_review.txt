@@ -1,0 +1,73 @@
+Muscle hypertrophy occurs when muscle protein synthesis exceeds muscle protein breakdown
+and results in positive net protein balance in cumulative periods [7]. This could be achieved with both RT and protein ingestion, which stimulates muscle protein synthesis and leads to decreases in muscle protein breakdown. From the nutrition point of view, protein intake alongside RT is a potent stimulus for muscle protein synthesis. With regard to RT, manipulation of its variables such as intensity and volume of effort, exercise order, number of performed repetitions and sets, tempo of movement, and the duration of rest periods between sets and exercises and training status have been extensively explored and discussed to maximize muscle adaptations [9,10]. Volume and intensity of effort are basic components with a direct impact on muscular adaptations [11,12]. The American College of Sports Medicine (ACSM) recommends 1−3 sets per exercise of 8−12 repetitions with 70−85% of one repetition maximum (1RM) for novice and 3−6 sets of 1−12 repetitions with 70−100% 1RM for advanced individuals [13]. However, the recent literature shows a much wider range of training options. Several studies have found that training with low-loads (30−60% 1RM) results in similar hypertrophy to training with moderate and high-loads (>60% 1RM) when volitional fatigue occurs [11,14–16]. Moreover, reaching volitional fatigue at all times is not necessary to make significant gains in hypertrophy [17], especially when training with high-loads is considered [18]. Evidence indicates that significant muscle growth occurs when the majority of training sets are performed with ~3–4 repetitions in reserve (with moderate to high-loads) [19]. Furthermore, it has been established that the volume of RT, defined as the total number of repetitions (repetitions x sets), together with
+loads used for a given exercise, is the key element of adaptation in terms of muscle hypertrophy; moreover, it has been suggested that higher volumes of effort are warranted for maximizing muscle growth response in diverse populations [12,20–23]. However, following years of training, it becomes difficult to induce further muscle hypertrophy [24], therefore individuals seek advanced resistance training techniques. The purpose of the present paper was to provide an objective and critical review related to advanced RT methods and techniques influencing skeletal muscle, which may contribute to maximizing muscle hypertrophy in both recreational and competitive athletes.
+Three major factors are emphasized in the conventional hypertrophy model: mechanical tension,
+metabolic stress, and muscle damage [55]. These factors can occur by optimal manipulation of RT
+variables and through a wide range of RT techniques. Progressive mechanical tension overload is
+considered one of the major factors of muscle growth and changes in muscle architecture, which are
+attained by increasing RT intensity of effort. RT with high-loads (>85% 1RM), and a low number
+of repetitions (1−5) as well as long rest intervals (~3−5 min) is largely oriented toward a greater
+magnitude of mechanical tension, which primarily develops strength, while muscle hypertrophy is
+compromised [13]. RT with a lower number of repetitions, yet with high-loads emphasizes mechanical
+tension and results in high levels of neural recruitment (fast-twitch muscle fibers). Another critical
+variable influencing hypertrophy with an evidenced dose-response relationship is RT volume [11,56].
+Higher RT volume (28−30 sets/muscle/week) is associated with greater increases in hypertrophy
+compared to lower volume (6−10 sets/muscle/week) in both untrained and trained populations [12,20].
+Implementation of training with moderate number of repetitions (~6−12), multiple sets (3−6), moderate
+loads (60−80% 1RM), and short rest intervals (60 s) between sets elicits greater metabolic stress (in
+contrast with high-loads), which appears to be a potent stimulus for inducing muscle hypertrophy [57].
+However, as long as RT is performed to volitional fatigue, training load might not affect exercise-induced
+muscle growth. Findings by Schoenfeld et al. [11] indicate that both low-load RT (≤60% 1RM)
+performed to volitional fatigue and moderate-load RT (>60% 1RM) elicit significant increases in muscle
+hypertrophy among well-trained young men. However, the participants following the low-load RT
+protocol performed approximately three times the total training volume compared to the high-load
+group (sets × repetitions). Similar findings were also demonstrated in a study by Ikezoe et al. [58],
+which highlighted the importance of performing exercise to volitional fatigue when low-loads were
+used to maximize muscle hypertrophy outcomes. These authors compared increments in muscle
+thickness (rectus femoris) after eight weeks of training with low-load, higher volume (30% 1RM, 12 sets
+x 8 repetitions) to training with high-load, lower volume (80% 1RM, 3 sets x 8 repetitions) leg extensions
+in young men. Considering that the training volume in the high-load group was significantly lower
+than that in the low-load, the degree of muscle thickness attained after intervention was almost twice as
+high in the high-load group [58]. However, it should be noted that if RT is not conducted to volitional
+fatigue, reaching the minimum RT intensity threshold (>60%1RM) is necessary to maximize muscle
+hypertrophy [59].
+Furthermore, implementation of advanced RT techniques could provide an additional stimulus
+to break through plateaus for trained subjects [24] and prevent excessive monotony in training.
+The most recent RT techniques and methods frequently used by practitioners and coaches include
+accentuated eccentric loading, prolonged eccentric tempo, cluster sets, high-load RT combined with
+low-load RT under blood flow restriction, supersets, drop sets, pre-exhaustion, and sarcoplasma
+stimulating training.
+Limitations
+The present review has several limitations that should be addressed. The majority of included
+studies did not control nutritional intake, which can affect the magnitude of muscle adaptations.
+Another limitation relates to studies that examined the influence of advanced methods and techniques
+on training variables, but did not analyze hypertrophic responses and/or strength improvements,
+which would be the basis for explaining their efficiency. In addition, only one study [44] directly
+compared the responses between trained and untrained participants.
+4. Conclusions
+Considering the aforementioned studies, effective hypertrophy-oriented training should comprise
+a combination of mechanical tension and metabolic stress. In summary, foundations for individuals
+seeking to maximize muscle growth should be hypertrophy-oriented RT consisting of multiple sets
+(3−6) of six to 12 repetitions with short rest intervals (60 s) and moderate intensity of effort (60−80%
+1RM) with subsequent increases in training volume (12–28 sets/muscle/week) [20]. Moreover, trained
+athletes may consider integrating advanced resistance training techniques and methods to provide
+an additional stimulus to break through plateaus, prevent monotony, and reduce the time of training
+sessions. Evidence suggests some beneficial effects for selected RT techniques especially in the case
+of training volume, time-efficiency, and intensity of effort. Furthermore, even though most of these
+techniques and methods did not show a superior hypertrophy response compared to the traditional
+approach, it may serve as an alternative to prevent monotony or it could improve readiness to training
+sessions. To maintain high time-efficiency of training and when time limitations exist, the use of
+agonist–antagonist, upper–lower body supersets, drop sets, SST, and cluster sets may provide an
+advantage to the traditional approach. Furthermore, the employment of fast but controlled tempo (~2 s)
+and supplementation of high-load RT with low-load RT under BFR may allow for high time-efficiency of
+training and prevent excessively long training sessions. With regard to the higher degree of mechanical
+tension, the use of AEL in RT should be considered, therefore, in cases where time is limited, cluster
+sets might be a better choice. The implementation of drop sets, SST, and low-load RT under BFR
+could provide time-efficient techniques to increase metabolic stress. In summary, currently there is not
+sufficient evidence to provide specific guidelines for volume, intensity of effort, and frequency of the
+previously mentioned resistance training techniques.
+Furthermore, persistence in training and diet is essential. Recently, research has shown that
+muscle hypertrophy that occurs at initial stages of RT (~4 sessions) is mostly attributable to muscle
+damage induced cell swelling with the majority of strength gains resulting from neural adaptations
+(8−12 sessions). Within the latter phase of RT (6−10 weeks), muscle growth begins to become the
+dominant factor [7].

@@ -1,0 +1,148 @@
+One of the advanced RT techniques is based on a prolonged duration of the eccentric phase
+of the movement. The duration of each repetition can be identified by movement tempo, which is
+determined by four digits (e.g., 2/0/1/0) corresponding to the duration (in seconds) of particular phases
+of movement (eccentric, transition, concentric, transition) [30]. Changes in the movement tempo during
+RT impacts the maximal number of repetitions performed in a set, the maximal time under tension,
+and the final exercise volume [25–27]. Several studies have indicated that the use of a faster movement
+tempo (e.g., 2/0/2/0) results in a significant increase in the maximal number of performed repetitions
+when compared to the slower tempo (e.g., 6/0/2/0) [25–27]. In contrast, a slower tempo of movement,
+especially during the eccentric phase (e.g., 6/0/2/0), decreases the number of performed repetitions, but
+Int. J. Environ. Res. Public Health 2019, 16, 4897 7 of 14
+extends the time under tension, which may contribute to greater muscle hypertrophy [28]. On the
+other hand, a meta-analysis of Schoenfeld et al. [60] indicates that similar hypertrophic responses occur
+when the duration of repetitions ranges from 0.5 to 8 s, although it must be noted that they [60] did
+not control the duration of particular phases of movement (eccentric vs. concentric), thus making
+it difficult to draw definite conclusions. Furthermore, a study by Shibata et al. [29] showed that the
+dominant leg thigh cross-sectional area increased in a similar manner following both the slow (4 s) and
+the fast (2 s) eccentric phase during the back squat exercise performed to volitional fatigue in a group
+of male soccer players. In light of the greater force capacity of eccentric actions, and the fact that the
+energy requirements are typically 4-fold smaller than during the concentric contraction of the same
+load [61], it would seem logical that lower metabolic stress may occur, which could limit the responses
+to this training technique.
+However, studies indicate a wide range of manipulation of the duration of the eccentric phase of
+movement can be employed if the primary goal of training is to maximize muscle hypertrophy [29,60].
+Although, it is not currently clear whether slow tempo provides a superior stimulus for muscle
+hypertrophy, from a practical point of view, employing a fast but controlled duration of the eccentric
+phase (~2s) may allow for a high time-efficiency of training and prevent the excessive time of
+training sessions.
+3.3. Accentuated Eccentric Loading Method
+Another useful method that can be used during RT, based on eccentric contractions includes
+accentuated eccentric loading (AEL). This training strategy is based on the muscles’ ability to generate
+greater force during maximal eccentric (~20−60%) versus other types of contraction. The use of weight
+releasers allow for overloading the muscles during the eccentric phase of movement due to its specific
+construction. The weight can be unloaded in the transition from the eccentric to the concentric phase
+of movement. The use of high-loads during the eccentric phase of movement is associated with
+significant exercise induced muscle damage and mechanical tension, which have been associated with
+a hypertrophic response [55]. Furthermore, some studies have shown that performing eccentric-only
+contractions led to higher gains in muscle mass when compared to concentric-only actions [30,62].
+Nonetheless, recent literature has indicated that when the volume of training was matched, both AEL
+and high-load RT led to similar hypertrophic responses in groups of strength-trained athletes [31,32,63].
+Furthermore, RT protocols that did not promote significant muscle damage still induced similar muscle
+hypertrophy in comparison with those protocols that promoted initial muscle damage [7]. However,
+differences appear in muscle architecture adaptations. Training with the concentric-only phase led
+to muscle growth mainly by the addition of sarcomeres in parallel (increased pennation angle with
+little change in fascicle length), while training with eccentric-only contractions led by the addition of
+sarcomeres in series (increased fascicle length and a small increase in the pennation angle) [64].
+Furthermore, due to the greater mechanical tension, it could provide an additional hypertrophic
+stimulus [31,33,65]. Although it must be noted that the main disadvantage of this technique is the
+necessity of weight releasers or the presence of experienced spotters during training. Moreover AEL,
+requires the eccentric load to reload after every repetition, thus is possible that the inter-repetition rest
+may excessively extend the time of particular repetitions and the whole training session.
+3.4. Low-Load Resistance Training Under Blood Flow Restriction
+Another RT method that allows for the avoidance of high mechanical stress associated with
+high-load RT and the high training volumes required when exercising with low-loads to volitional
+fatigue is to combine RT under blood flow restriction (BFR) [34,66,67]. The BFR method involves the
+application of a restrictive device (a tourniquet, an inflatable cuff, or elastic wraps) on the proximal
+part of the limb to reduce the arterial blood flow and to occlude the venous return [67]. Such an
+intervention results in an accumulation of metabolic products distal to the restriction and when coupled
+with RT, drastically increases metabolic stress. However, with regard to low-load RT under BFR, a significant increase in the muscle cross-sectional area was observed even without reaching volitional
+fatigue in particular sets [35]. Furthermore, several studies have suggested that increases in muscle
+mass following low-load RT under BFR (20−30% 1RM) do not exceed those observed after the use
+of high-load RT (80% 1RM) without BFR [36–38]. The effectiveness of using BFR concerns various
+populations such as non-athletes [39,40], moderately experienced participants (>1 year) [36], and elite
+athletes [41,42]. High-load RT with additional low-load sets under BFR may elicit beneficial muscular
+responses in healthy athletes [68].
+The most frequently and evidence-based repetition and set scheme involves 30 repetitions in
+the first set followed by three sets of 15 repetitions with 30 s rests in between with 20−40% 1RM and
+pressure, which contribute to 40−80% of arterial occlusion pressure [69]. However, it must be noted
+that BFR induced muscle growth is limited to the limb muscles [43].
+3.5. Cluster Sets Technique
+Another RT technique that partly allows for the balance of both mechanical tension and metabolic
+stress consists of cluster sets. In a traditional scheme of sets, repetitions, a chosen group of exercises
+are performed consecutively, with a long inter-set rest interval, are then followed by another set of
+repetitions. On the contrary, cluster sets include short, inter-set rest intervals (20−60s) with a lower
+number of repetitions [70]. Previous research has mostly investigated the effects of cluster sets on force
+production, power output, and movement velocity, while findings related to muscle hypertrophy are
+limited [44]. Nevertheless, implementation of inter-set rest intervals allows for a greater RT volume to
+be achieved for a particular external load when compared with a traditional scheme of sets [44,45]
+in trained and untrained men, possibly providing an additional stimulus for muscle hypertrophy.
+However, it should be noted that cluster sets induce less metabolic stress, but greater emphasis is placed
+on mechanical stress due to the use of higher training intensities of effort in comparison with traditional
+sets [44–46,71]. Thus, the implementation of cluster sets with short inter-set rest intervals could be a
+useful strategy to carry out high-volume sessions of high-loads, while keeping a high time-efficiency of
+training (training volume/time). Furthermore, cluster sets may serve as an alternative to traditional sets
+for promoting muscle hypertrophy over time during parallel periodization models [46], and prevent
+monotony in training. Moreover, future studies should investigate the direct effects of cluster sets on
+exercise-induced muscle growth.
+3.6. Supersets and Pre-exhaustion Technique
+Supersets and pre-exhaustion during RT can be defined as a pair of different exercise sets
+performed without rest. Supersets most commonly consist of two exercises for the same muscle
+group [47], agonist-antagonist muscles [48,72] or alternating upper and lower body muscle groups [49]
+consecutively followed by a recovery period; pre-exhaustion involves performing a single-joint before
+a multi-joint exercise for the same muscle group (e.g., dumbbell fly before the bench press). In a
+study by Wallace et al. [47], supersets (flat bench press followed by the incline bench press) resulted in
+a significantly lower volume of training than a traditional exercise order in strength-trained males.
+However, with regard to agonist–antagonist supersets, investigation by Robbins et al. [48] (bench pull
+paired with the bench press) indicated a significantly higher training volume when compared to a
+traditional exercise order. Furthermore, this type of superset as well as upper–lower body supersets
+were found to be more time-efficient than traditional exercise order sessions [48,49].
+The pre-exhaustion technique is commonly used by bodybuilders seeking to enhance the muscle
+growth of target muscles. The rationale for this technique is that performing a single-joint exercise
+first fatigues the agonist in isolation, thereby placing greater stress on the agonist and increasing
+its activation during multi-joint exercise and potentiating its hypertrophy [73]. Another variation is
+the reverse pre-exhaustion (e.g., triceps pushdown before the bench press), and the justification for
+this approach is that the fatigued synergist contributes less to the subsequent multi-joint exercise,
+thereby placing greater stress on the agonist group [74]. However, a study by Golas et al. [75] partially
+Int. J. Environ. Res. Public Health 2019, 16, 4897 9 of 14
+disagreed with this statement as the results indicated that a pre-exhaustion exercise (incline dumbbell
+fly) did not affect the pectoralis major activity during the flat bench press exercise at 95% 1RM. Despite
+that, pre-exhaustion of the synergist muscles (triceps brachii and anterior deltoid before the bench
+press) led to their higher activation during the multi-joint movement (bench press) as compared to the
+baseline [75]. Furthermore, results of a study by Soares et al. [50] suggested that pre-exhaustion (triceps
+pushdown followed by the bench press) decreased the maximal number of repetitions performed
+during a set to volitional fatigue.
+In conclusion, practitioners aiming to maximize training volume and intensity of effort may be
+well advised to consider the use of supersets (agonist–antagonist and upper–lower body) in their RT
+programs. The use of these exercise orders may be more time-efficient than the traditional approach,
+and especially useful when time limitations exist in the planning of training sessions.
+3.7. Drop Sets and Sarcoplasma Stimulating Training Technique
+Drop sets involve performing a set to volitional fatigue with a given load and then immediately
+reducing the load (e.g., ~20%) and continuing the exercise until subsequent volitional fatigue [76].
+Briefly, the rationale for this technique is high metabolic stress induced due to a high number of
+repetitions performed with short rest intervals. Accordingly, a study by Fink et al. [51] showed
+significantly higher muscle thickness after drop sets in comparison with RT following a traditional sets
+scheme, which can be considered as a potential marker for metabolic stress [57]. Furthermore, results
+of the study by Fink et al. [51] showed significant increases in the triceps cross-sectional area after six
+weeks of drop sets training when compared to traditional sets. Nevertheless, it must be noted that
+participants taking part in this research were recreational trained persons with little experience in RT
+(did not regularly train for more than one year). On the other hand, Angleri et al. [52] demonstrated
+that drop sets did not promote greater lower body muscle growth when compared with traditional
+sets in well-trained males when training volume was equalized.
+Similarly to drop sets, sarcoplasm stimulating training (SST) consists of sets of exercises performed
+at 70–80% 1RM to volitional fatigue and then repeating this protocol twice more with 20 s rest intervals
+in between. The next step is to reduce the external load by 20% and perform an additional set with
+a 4/0/1/0 tempo; following a 20 s rest interval, 20% of the external load is reduced again, and a set
+with 4/0/1/0 tempo is completed to volitional fatigue. In the last set, the load is further decreased by
+20% and after its completion, following a 20 s rest interval, a static hold is performed (e.g., at 90◦ of
+elbow flexion) to volitional fatigue [53]. Another SST variation refers to the performance of eight sets
+of exercises at 70−80% 1RM to volitional fatigue with programmed rest intervals between subsequent
+sets (45, 30, 15, 5, 5, 15, 30, and 45 s) without reducing the load [53]. Similarly, to drop sets, the main
+aim of SST is to induce high metabolic stress [53]. Recently, de Almeida et al. [53] demonstrated that
+SST resulted in greater acute biceps brachii and triceps brachii muscle thickness when compared to a
+traditional set scheme in trained subjects, even when total training volume was higher in a traditional
+set scheme RT.
+Evidence suggests the beneficial effects of both drop sets and SST in acute increases in triceps
+brachii muscle thickness [53] in both amateur and well-trained subjects, even with lower training
+volume versus a traditional set scheme RT. However, studies that have investigated the chronic effects
+of drop sets did not show a superior hypertrophy response when compared with traditional sets [52,54].
+Moreover, the chronic effects of SST on muscle growth have not been examined yet.
