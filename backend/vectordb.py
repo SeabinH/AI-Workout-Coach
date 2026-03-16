@@ -1,20 +1,20 @@
+import json
 from langchain_community.document_loaders import PyPDFLoader
+from langchain_community.document_loaders import DirectoryLoader
 from langchain_community.document_loaders import TextLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_core.documents import Document
 from langchain_community.vectorstores import Chroma
 
+from langchain_community.embeddings import HuggingFaceEmbeddings
+from config import OPENAI_API_KEY
 
-from langchain_openai import OpenAIEmbeddings
-import json
-from backend.config import OPENAI_API_KEY
-
-# Load PDF documents
-pdf_loader = PyPDFLoader("../data/hypertrophy_review.pdf")
-pdf_docs = pdf_loader.load()
+# Load text documents
+documentsLoader = DirectoryLoader('./data/informative_texts',glob="**/*.txt", loader_cls= TextLoader)
+documents = documentsLoader.load()
 
 # Load JSON exercises
-with open("../data/exercises.json") as f:
+with open("data/exercises/exercises.json") as f:
     exercises = json.load(f)
 
 exercise_docs = []
@@ -28,12 +28,12 @@ for ex in exercises:
     exercise_docs.append(Document(page_content=text))
 
 # Combine and split into chunks
-all_docs = pdf_docs + exercise_docs
-splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
+all_docs = documents + exercise_docs
+splitter = RecursiveCharacterTextSplitter(chunk_size=800, chunk_overlap=100)
 chunked_docs = splitter.split_documents(all_docs)
 
 # Create embeddings
-embeddings = OpenAIEmbeddings(openai_api_key=OPENAI_API_KEY)
+embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
 
 # Build vector DB
 vectorstore = Chroma.from_documents(
