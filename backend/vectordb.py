@@ -1,4 +1,5 @@
 import json
+import os
 from langchain_community.document_loaders import PyPDFLoader
 from langchain_community.document_loaders import DirectoryLoader
 from langchain_community.document_loaders import TextLoader
@@ -6,8 +7,10 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_core.documents import Document
 from langchain_community.vectorstores import Chroma
 
-from langchain_community.embeddings import HuggingFaceEmbeddings
-from config import OPENAI_API_KEY
+from langchain_huggingface import HuggingFaceEmbeddings
+from backend.config import OPENAI_API_KEY
+
+BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 
 # Load text documents
 documentsLoader = DirectoryLoader('./data/informative_texts',glob="**/*.txt", loader_cls= TextLoader)
@@ -39,7 +42,7 @@ embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-
 vectorstore = Chroma.from_documents(
     documents=chunked_docs,
     embedding=embeddings,
-    persist_directory="../db"
+    persist_directory=os.path.join(BASE_DIR, "db")
 )
 
 vectorstore.persist()
